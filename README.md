@@ -26,7 +26,7 @@ Delving into AWS services like ElastiCache and Elastic Load Balancing (ELB), it 
 ## How to Use This Repository
 
 - Review the presentation slides for an understanding of the ElastiCache & ELB for Mom and Pop Cafe.
-- Explore the optional pamphlet providing a table for comparing different EBS volume types.
+- Explore the optional pamphlet providing a table for comparing different ElastiCache & ELB functions.
 - Consider the architecture, analysis, and recommendations as a sample of my data analysis and communication skills.
 
 ## Contact
