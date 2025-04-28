@@ -5,6 +5,7 @@ Microsoft Powerpoint, Canva
 
 ## Introduction
 
+
 This repository showcases my skills and experience in data analysis. In particular, it features a presentation that addresses the use of AWS services - ElastiCache and Elastic Load Balancing (ELB) for enhancing the reliability and availability of web applications.
 
 Problem which focuses on leveraging cloud-based solutions to enhance the performance and availability of web applications for cafe named 'Mom and Pop Cafe'. As we explore the dynamics of the digital landscape, businesses are increasingly reliant on cloud services to meet growing demands and ensure exceptional user experiences.
