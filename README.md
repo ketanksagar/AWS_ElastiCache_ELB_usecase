@@ -1,6 +1,7 @@
 # Amazon ElastiCache and Elastic Load Balancer Suggestion to Mom & Pop Cafe
 ## Technologies
-Microsoft Powerpoint, Canva
+Microsoft Powerpoint, Canva, AWS, Office Suite
+
 ![image](https://github.com/ketanksagar/AWS_ElastiCache_ELB_usecase/assets/117306864/3b417bd8-3a86-4635-bb7a-dbb2961f4542)
 
 ## Introduction
